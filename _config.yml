@@ -10,8 +10,8 @@ lang: en
 timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
-title: Chirpy # the main title
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+title: Parad1gmSh1ft # the main title
+tagline: Guilty as charged... # it will display as the subtitle
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 # Fill in the protocol & hostname for your site.
@@ -31,8 +31,8 @@ social:
     - https://twitter.com/CharlesCravens # change to your Twitter homepage
     - https://github.com/Parad1gmSh1ft72 # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/Parad1gmSh1ft72
+    - https://www.linkedin.com/in/charles-cravens-129830146
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
@@ -74,7 +74,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: dark
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
